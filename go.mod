@@ -28,7 +28,7 @@ require (
 	github.com/prometheus/procfs v0.15.1
 	github.com/rs/xid v1.6.0
 	github.com/shirou/gopsutil/v3 v3.24.5
-	github.com/sourcegraph/go-ctags v0.0.0-20240424152308-4faeee4849da
+	github.com/sourcegraph/go-ctags v0.0.0-20250729094530-349a251d78d8
 	github.com/sourcegraph/log v0.0.0-20241024013702-574f7079c888
 	github.com/sourcegraph/mountinfo v0.0.0-20240201124957-b314c0befab1
 	github.com/stretchr/testify v1.10.0
@@ -54,6 +54,7 @@ require (
 	golang.org/x/sys v0.30.0
 	google.golang.org/grpc v1.69.4
 	google.golang.org/protobuf v1.36.3
+	pgregory.net/rapid v1.2.0
 )
 
 require (
@@ -78,7 +79,7 @@ require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bits-and-blooms/bitset v1.20.0 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
-	github.com/cespare/xxhash/v2 v2.3.0 // indirect
+	github.com/cespare/xxhash/v2 v2.3.0
 	github.com/cloudflare/circl v1.5.0 // indirect
 	github.com/cockroachdb/errors v1.11.3 // indirect
 	github.com/cockroachdb/logtags v0.0.0-20241215232642-bb51bb14a506 // indirect
